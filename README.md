@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+11/06/2020
 
 ### Project Title
-Replace the Project Title
+Programming for data science with python
 
 ### Description
-Describe what your project is about and what it does
+This repository contains projects for Udacity Programming For Data Science Using Python Nanodegree.
 
 ### Files used
-Include the files used
+The required files for running this program are:
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+    washington.csv
+    new_york_city.csv
+    chicago.csv
 
