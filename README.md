@@ -14,4 +14,4 @@ The required files for running this program are:
     new_york_city.csv
     chicago.csv
 
-The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+
