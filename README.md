@@ -15,3 +15,5 @@ The required files for running this program are:
     chicago.csv
 
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+This program was written in Python (version 3.7.1) and relies on the following libraries: pandas==0.23.4 numpy==1.15.4
+Check the link for my learning material.
